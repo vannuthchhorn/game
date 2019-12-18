@@ -1,0 +1,25 @@
+body {
+    font-family: 'Battambang', cursive;
+}
+.container {
+    width: 600px;
+    margin: 0 auto;
+}
+button {
+    padding: 10px;
+    border:none;
+    cursor: pointer;
+    color:#fff;
+    font-family: 'Battambang', cursive;
+    outline: none;
+    border-radius: 10px;
+    width: 20%;
+}
+#play {
+    background: orange;
+}
+#result {
+    padding: 40px;
+    margin-top: 20px;
+    text-align: center;
+}
